@@ -261,7 +261,7 @@
 
 
 
-+++ title = 'Cohost' date = 2024-06-29T17:39:56-04:00 draft = false
++++ title = ‘Cohost’ date = 2024-06-29T17:39:56-04:00 draft = false
 weight = 20 +++
 
 https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.pdf
