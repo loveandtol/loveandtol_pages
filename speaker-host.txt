@@ -1,4 +1,4 @@
-Speaker host
+Meeting script - Speaker host
 2024-06-29T17:39:50-04:00
 
   This is the Speaker Meeting script for the Host. It contains all HOST
@@ -128,7 +128,7 @@ these people.
 If you need proof of meeting attendance, please email
 info@loveandtol.com.
 
-Find all this information and more at our website, www.loveandtol.com
+Find all this information and more at our website, loveandtol.com
 
 If you are in a place where you can’t have a phone, please make note of
 our meeting code so you can sign on when you get home, and we can help

@@ -1,5 +1,122 @@
-+++ title = ‘Cohost’ date = 2024-06-29T17:39:56-04:00 draft = false
-weight = 20 +++
++++ title = ‘Meeting Script - Cohost’ date = 2024-06-29T17:39:56-04:00
+draft = false weight = 20 +++
+
+  This is the Co-Host script, used by the Co-Host for all Copy and
+  Pasting material into the chat, during a meeting. Doing this, the Host
+  will be able to focus on facilitating the meeting. We suggest that
+  regular communication and expectations be discussed between the Host
+  and Co-Host.
+
+  REMINDERs:
+
+  AT 10PM ENSURE THE FOLLOWING CONFIGURATIONS * Mute All participants. *
+  “Mute Participants upon Entry” is checked. * “Allow Participants to
+  Unmute Themselves” is unchecked. * “Host and co-hosts” should be
+  selected in “Participant Can Chat with:”
+
+Keep an eye on the waiting room and admit people. Let the host mute and
+unmute people unless a zoom bomber goes off. Then mute the bomber
+quickly & turn their camera off. After that just leave them and look for
+the next one. Only post items that are in bold.
+
+Post in chat at these times.
+
+10:00 & 10:15
+
+Having trouble hearing? Call In Phone #: 1-312-626-6799 Meeting ID:190
+210 132
+
+10:01
+
+DIRECTIONS ON HOW TO SHARE:
+
+On a Tablet: SELECT THE RAISE HAND ICON
+
+On a cell phone: SELECT “MORE” ICON & SELECT “RAISE HAND”
+
+On a computer: “RAISE HAND” IN ZOOM IS LOCATED IN THE REACTIONS TOOLBAR.
+
+AFTER ANNIVERSARIES ARE ASKED ABOUT.
+
+There are no dues or fees, but we do have expenses. In keeping with the
+7th tradition, a Venmo ID to contribute will be posted in the chat. The
+Venmo ID for making donations is @LOVEANDTOLERANCE. The Venmo QR is in
+the meeting chat as well for convenience. Our account is associated with
+the name, Jess T. Please contact a host or co-host after the meeting if
+you have questions on how to donate.
+
+WHEN THE PERSON IS ASKED TO DO THE READING.
+
+Post whatever the reading is for the night. Post again in 15 minutes or
+so or when someone asks about the topic in chat.
+
+Decide whether you or the host is going to time people sharing. Whomever
+is timing, use a 3-minute timer, giving them a 1-minute warning. After
+that minute kindly tell them their time is up.
+
+10:45.
+
+Keep an eye on the waiting room to make sure you let people in that
+arrive late.
+
+DIRECTIONS ON HOW TO SHARE:
+
+On a Tablet: SELECT THE RAISE HAND ICON
+
+On a cell phone: SELECT “MORE” ICON & SELECT “RAISE HAND”
+
+On a computer: “RAISE HAND” IN ZOOM IS LOCATED IN THE REACTIONS TOOLBAR.
+
+10:45
+
+Open chat to anyone and everyone.
+
+THE CHAT IS NOW OPEN
+
+Please keep it clean, respectful, and safe. When someone reaches out
+know that you DO NOT have to give your number if you feel uncomfortable.
+Our PRIMARY purpose is to stay sober and help other alcoholics achieve
+sobriety. If you feel that someone is being inappropriate please reach
+out to the Host or a Co-Host.
+
+10:56
+
+Post the following Homegroup Info
+
+HOMEGROUP INFO:
+
+If you are interested in becoming a homegroup member, would like to Host
+or Co-Host for the next rotation or need a Big Book or other AA approved
+literature please send an email to info@loveandtol.com
+
+CONTACT LIST:
+
+If you would like to be included in the Love & Tolerance contact list or
+would like to receive a contact list, please send an email to
+info@loveandtol.com
+
+SPONSORSHIP INFO:
+
+Here at Love and Tolerance, we believe sponsorship is important for our
+recovery. A sponsor is someone to help you through the 12 Steps of
+Alcoholics Anonymous. IF YOU ARE ACTIVELY WORKING THE 12 STEPS AND are
+available to sponsor, please put your contact info in the chat now. If
+you need a sponsor or have any questions, please reach out to one of
+these people.
+
+PROOF OF ATTENDANCE:
+
+If you need proof of meeting attendance, please email
+info@loveandtol.com
+
+WEBSITE INFORMATION:
+
+Find all this information and more at our website,
+https://loveandtol.com/meeting
+
+MEETING INFORMATION:
+
+Love and Tolerance Meeting ID: 190 210 132 no password needed.
 
 https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.pdf
 https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.docx
