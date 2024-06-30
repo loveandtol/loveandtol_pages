@@ -128,5 +128,7 @@ Other formats
     https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.pdf
 -   Word doc -
     https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.docx
--   PLain text -
+-   Plain text -
     https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.txt
+-   Kindle -
+    https://github.com/loveandtol/loveandtol_pages/raw/main/cohost.epub

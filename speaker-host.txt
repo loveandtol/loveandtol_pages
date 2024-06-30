@@ -166,3 +166,5 @@ Other formats
     https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.docx
 -   Plain text -
     https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.txt
+-   Kindle -
+    https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.epub
