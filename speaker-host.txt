@@ -160,6 +160,9 @@ https://loveandtol.com/meeting/literature
 
 Other formats
 
-https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.pdf
-https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.docx
-https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.txt
+-   PDF -
+    https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.pdf
+-   Word doc -
+    https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.docx
+-   Plain text -
+    https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.txt
