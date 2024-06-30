@@ -1,0 +1,406 @@
+%%
+% Copyright (c) 2017 - 2023, Pascal Wagler;
+% Copyright (c) 2014 - 2023, John MacFarlane
+%
+% All rights reserved.
+%
+% Redistribution and use in source and binary forms, with or without
+% modification, are permitted provided that the following conditions
+% are met:
+%
+% - Redistributions of source code must retain the above copyright
+% notice, this list of conditions and the following disclaimer.
+%
+% - Redistributions in binary form must reproduce the above copyright
+% notice, this list of conditions and the following disclaimer in the
+% documentation and/or other materials provided with the distribution.
+%
+% - Neither the name of John MacFarlane nor the names of other
+% contributors may be used to endorse or promote products derived
+% from this software without specific prior written permission.
+%
+% THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+% "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+% LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+% FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+% COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+% INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+% BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+% LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+% CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+% LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+% ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+% POSSIBILITY OF SUCH DAMAGE.
+%%
+
+%%
+% This is the Eisvogel pandoc LaTeX template.
+%
+% For usage information and examples visit the official GitHub page:
+% https://github.com/Wandmalfarbe/pandoc-latex-template
+%%
+
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names,table}{xcolor}
+%
+\documentclass[
+  paper=a4,
+  ,captions=tableheading
+]{scrartcl}
+\usepackage{amsmath,amssymb}
+% Use setspace anyway because we change the default line spacing.
+% The spacing is changed early to affect the titlepage and the TOC.
+\usepackage{setspace}
+\setstretch{1.2}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[]{DejaVuSans.ttf}
+  \setsansfont[]{DejaVuSans.ttf}
+  \setmonofont[]{DejaVuSansMono.ttf}
+  \setmathfont[]{texgyredejavu-math.otf}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\definecolor{default-linkcolor}{HTML}{A50000}
+\definecolor{default-filecolor}{HTML}{A50000}
+\definecolor{default-citecolor}{HTML}{4077C0}
+\definecolor{default-urlcolor}{HTML}{4077C0}
+\usepackage[margin=2.5cm,includehead=true,includefoot=true,centering,]{geometry}
+% add backlinks to footnote references, cf. https://tex.stackexchange.com/questions/302266/make-footnote-clickable-both-ways
+\usepackage{footnotebackref}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  breaklinks=true,
+  pdfcreator={LaTeX via pandoc with the Eisvogel template}}
+\title{Speaker host}
+\author{}
+\date{}
+
+
+
+%%
+%% added
+%%
+
+
+%
+% for the background color of the title page
+%
+
+%
+% break urls
+%
+\PassOptionsToPackage{hyphens}{url}
+
+%
+% When using babel or polyglossia with biblatex, loading csquotes is recommended
+% to ensure that quoted texts are typeset according to the rules of your main language.
+%
+\usepackage{csquotes}
+
+%
+% captions
+%
+\definecolor{caption-color}{HTML}{777777}
+\usepackage[font={stretch=1.2}, textfont={color=caption-color}, position=top, skip=4mm, labelfont=bf, singlelinecheck=false, justification=raggedright]{caption}
+\setcapindent{0em}
+
+%
+% blockquote
+%
+\definecolor{blockquote-border}{RGB}{221,221,221}
+\definecolor{blockquote-text}{RGB}{119,119,119}
+\usepackage{mdframed}
+\newmdenv[rightline=false,bottomline=false,topline=false,linewidth=3pt,linecolor=blockquote-border,skipabove=\parskip]{customblockquote}
+\renewenvironment{quote}{\begin{customblockquote}\list{}{\rightmargin=0em\leftmargin=0em}%
+\item\relax\color{blockquote-text}\ignorespaces}{\unskip\unskip\endlist\end{customblockquote}}
+
+%
+% Source Sans Pro as the de­fault font fam­ily
+% Source Code Pro for monospace text
+%
+% 'default' option sets the default
+% font family to Source Sans Pro, not \sfdefault.
+%
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+    \usepackage[default]{sourcesanspro}
+  \usepackage{sourcecodepro}
+  \else % if not pdftex
+    \fi
+
+%
+% heading color
+%
+\definecolor{heading-color}{RGB}{40,40,40}
+\addtokomafont{section}{\color{heading-color}}
+% When using the classes report, scrreprt, book,
+% scrbook or memoir, uncomment the following line.
+%\addtokomafont{chapter}{\color{heading-color}}
+
+%
+% variables for title, author and date
+%
+\usepackage{titling}
+\title{Speaker host}
+\author{}
+\date{}
+
+%
+% tables
+%
+
+%
+% remove paragraph indention
+%
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+%
+%
+% Listings
+%
+%
+
+
+%
+% header and footer
+%
+\usepackage[headsepline,footsepline]{scrlayer-scrpage}
+
+\newpairofpagestyles{eisvogel-header-footer}{
+  \clearpairofpagestyles
+  \ihead*{Speaker host}
+  \chead*{}
+  \ohead*{}
+  \ifoot*{}
+  \cfoot*{}
+  \ofoot*{\thepage}
+  \addtokomafont{pageheadfoot}{\upshape}
+}
+\pagestyle{eisvogel-header-footer}
+
+
+
+%%
+%% end added
+%%
+
+\begin{document}
+
+%%
+%% begin titlepage
+%%
+
+%%
+%% end titlepage
+%%
+
+% \maketitle
+
+
+> This is the Speaker Meeting script for the Host. It contains all HOST
+> related material for a meeting. The Co-Host script is intended to be
+> used by the Co-Host for all Copy and Pasting material into the chat,
+> during a meeting. If the Co-Host is doing that, this is all you will
+> need, to facilitate the meeting. If there is no Co-Host, the Co-Host
+> script will be necessary as well. It is suggested that there be a Host
+> and a Co-Host and regular communication, and expectations are
+> discussed between them.
+>
+> REMINDERs:
+>
+> AT 10PM ENSURE THE FOLLOWING CONFIGURATIONS
+>
+> -   Mute All participants.
+> -   Mute Participants upon Entry is checked.
+> -   Allow Participants to Unmute Themselves is unchecked.
+> -   "Host and co-hosts" should be selected in "Participant Can Chat
+>     with:"
+
+## SPEAKER MEETING SCRIPT
+
+Welcome to the very open Love and Tolerance meeting of Alcoholics
+Anonymous. My name is \_\_\_\_\_ and I am an Alcoholic. I'll be your
+chairperson this evening.
+
+Please help me open the meeting with the Serenity Prayer.
+
+*God, grant me the serenity to accept the things I cannot change;
+courage to change the things I can; and wisdom to know the difference.*
+
+We will be placing everyone on mute for the duration of the meeting. If
+you want to share please use the raise your hand feature and I will
+unmute you. The instructions on how to share will be posted in the chat.
+
+### AA PREAMBLE
+
+Alcoholics Anonymous is a fellowship of people who share their
+experience, strength and hope with each other that they may solve their
+common problem and help others to recover from alcoholism. The only
+requirement for membership is a desire to stop drinking. There are no
+dues or fees for AA membership; we are self-supporting through our own
+contributions. AA is not allied with any sect, denomination, politics,
+organization, or institution; does not wish to engage in any
+controversy, neither endorses nor opposes any causes. Our primary
+purpose is to stay sober and help other alcoholics to achieve sobriety.
+
+I have asked \_\_\_\_\_\_ \[a friend\] to read "How it Works" from page
+58 of the Big Book.
+
+I have asked \_\_\_\_\_\_\_\_ \[another friend\] to read Step 10 and
+part of its promises, from page 84 of the Big Book.
+
+Are there any AA-related announcements?
+
+Is there anyone here counting days, weeks, or months?
+
+Are there any anniversaries?
+
+There are no dues or fees, but we do have expenses. In keeping with the
+7th tradition, a Venmo ID to contribute will be posted in the chat. The
+Venmo ID for making donations is @LOVEANDTOLERANCE. The Venmo QR will be
+shared in the meeting chat as well for convenience. Our account is
+associated with the name, Jess T. Please contact a host or co-host after
+the meeting if you have questions on how to donate.
+
+Tonight's meeting is a speaker discussion. Our speaker will share their
+experience, strength, and hope for about 25 minutes and then the floor
+will be open for sharing. After, we will open for sharing. Please limit
+your comments to 3 mins and share only once so that everyone may have a
+chance to share. We will be setting a timer and will remind you there is
+"one minute" left. Please don't take it personally.
+
+> Once speaker is finished after 25 minutes
+
+We are open for discussion. Please limit your comments to 3 minutes and
+share only once so that everyone may have a chance to share. We will be
+setting a timer and will remind you when there is "one minute" left,
+after that I'll ask you to wrap it up. Please don't take this
+personally.
+
+Directions to raise a virtual hand are posted in the chat, you can also
+message me or a co-host, or wave on video. Please let's have a safe and
+clean meeting!
+
+> **DURING ANY PAUSES IN THE MEETING:**
+>
+> Remind people they can share about anything on their mind, or just
+> introduce themselves if they're new to our group.
+>
+> Moments of silence do not reflect badly on the topic or the
+> chairperson, see it as time to process.
+>
+> AT 10:45 pm YOU CAN ENABLE THE CHAT FEATURE AGAIN TO EVERYONE PUBLICLY
+> AND PRIVATELY.
+
+The Chat is now open. Please keep it clean, respectful, and safe. When
+someone reaches out, know that you DO NOT have to give your number if
+you feel uncomfortable. Our PRIMARY purpose is to stay sober and help
+other alcoholics achieve sobriety. If you feel that someone is being
+inappropriate, please reach out to the Host or a Co-Host.
+
+> AT 10:55/11 pm prepare to close the meeting
+
+We are out of time. I would like to thank \_\_\_\_\_\_\_\_\_\_ for
+sharing their experience, strength, and hope with us tonight. Please
+join us for fellowship after the meeting and come back tomorrow. Just a
+reminder that we meet 7 nights a week at 10 pm Eastern, at the same
+time, same meeting access code.
+
+If you are interested in becoming a homegroup member, would like to Host
+or Co-Host for the next rotation or need a Big Book or other AA approved
+literature please send an email to info@loveandtol.com.
+
+If you would like to be included in the Love & Tolerance contact list or
+would like to receive a contact list, please send an email to
+info@loveandtol.com.
+
+Here at Love and Tolerance, we believe sponsorship is important for our
+recovery. A sponsor is someone to help you through the 12 Steps of
+Alcoholics Anonymous. IF YOU ARE ACTIVELY WORKING THE 12 STEPS AND are
+available to sponsor, please put your contact info in the chat now. If
+you need a sponsor or have any questions, please reach out to one of
+these people.
+
+If you need proof of meeting attendance, please email
+info@loveandtol.com.
+
+Find all this information and more at our website, www.loveandtol.com
+
+If you are in a place where you can't have a phone, please make note of
+our meeting code so you can sign on when you get home, and we can help
+each other stay sober.
+
+> Love and Tolerance Meeting Code 190-210-132
+
+### DECLARATION PLEDGE:
+
+When anyone, anywhere, reaches out for help, I want the hand of AA
+always to be there. And for that: I am responsible.
+
+Just a reminder, Anonymity is the spiritual foundation of our program.
+If we are to recover, we must feel free to say what is in our minds and
+hearts. Therefore, who you see here, what you hear here, when you leave
+here, let it stay here.
+
+Please stay after the meeting for more fellowship.
+
+Please help me close the meeting with the "We" version of the serenity
+prayer.
+
+*God grant us the serenity to accept the things we cannot change;
+courage to change the things we can; and wisdom to know the difference.*
+
+https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.pdf
+https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.docx
+https://github.com/loveandtol/loveandtol_pages/raw/main/speaker-host.txt
+
+\end{document}
