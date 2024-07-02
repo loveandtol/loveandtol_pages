@@ -191,11 +191,7 @@ https://loveandtol.com/meeting/literature
 
 Other formats
 
--   PDF -
-    https://github.com/loveandtol/loveandtol_pages/raw/main/host.pdf
--   Word doc -
-    https://github.com/loveandtol/loveandtol_pages/raw/main/host.docx
--   Plain text -
-    https://github.com/loveandtol/loveandtol_pages/raw/main/host.txt
--   Kindle -
-    https://github.com/loveandtol/loveandtol_pages/raw/main/host.epub
+-   PDF
+-   Word doc
+-   Plain text
+-   Kindle
