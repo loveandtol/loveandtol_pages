@@ -20,7 +20,7 @@ Meeting Script - Host
   -   “Host and co-hosts” should be selected in “Participant Can Chat
       with:”
 
-GENERAL SCRIPT
+MEETING SCRIPT
 
 Welcome to the very open Love and Tolerance meeting of Alcoholics
 Anonymous. My name is _____ and I am an Alcoholic. I’ll be your
@@ -34,6 +34,8 @@ to change the things I can; and wisdom to know the difference.
 We will be placing everyone on mute for the duration of the meeting. If
 you want to share please use the raise your hand feature and I will
 unmute you. The instructions on how to share will be posted in the chat.
+Those needing proof of attendance, the information will be shared toward
+the end of the meeting.
 
 AA PREAMBLE
 
@@ -60,24 +62,84 @@ Is there anyone here counting days, weeks, or months?
 Are there any anniversaries?
 
 There are no dues or fees, but we do have expenses. In keeping with the
-7th tradition, you may contribute via Venmo, Cash.app, Zelle, or check.
-The details on how to donate are available at
-https://loveandtol.com/contribute and will be posed in the chat. a Venmo
-ID to contribute will be posted in the chat. The Venmo ID for making
-donations is @LOVEANDTOLERANCE. The Venmo QR will be shared in the
-meeting chat as well for convenience. Our account is associated with the
-name, Jess T. Please contact a host or co-host after the meeting if you
-have questions on how to donate. We do provide proof of attendance; the
-an email address will be posted in the chat later in the meeting.
+7th tradition, “Every A.A. group ought to be fully self-supporting,
+declining outside contributions”, methods to contribute will be posted
+in the chat. The Account Name and associated QR codes are provided.
+
+Please contact a host or co-host after the meeting if you have questions
+on how to donate.
+
+Venmo: @loveandtolerance
+
+[venmo qr code]
+
+Cash App: $loveandtol
+
+[Cash app qr code]
+
+Zelle: treasurer@loveandtol.com
+
+https://loveandtol.com/contribute
+
+[ Read this section for discussion meetings]
+
+------------------------------------------------------------------------
 
 Tonight, is a discussion meeting, on a topic from AA approved
 literature.
 
 I have asked _________ to choose a reading.
 
-  Chair introduces another attendee who was invited to choose a reading
+  [Chair introduces another attendee who was invited to choose a reading
   from AA approved literature and then the reader shares their
-  experience, strength, and hope
+  experience, strength, and hope]
+
+[Read this section for speaker meetings (friday night) ONLY]
+
+  -------------
+  Tonight’s
+  meeting is a
+  speaker
+  discussion.
+  Our speaker
+  will share
+  their
+  experience,
+  strength, and
+  hope for
+  about 25
+  minutes and
+  then the
+  floor will be
+  open for
+  sharing.
+  After, we
+  will open for
+  sharing.
+  Please limit
+  your comments
+  to 3 mins and
+  share only
+  once so that
+  everyone may
+  have a chance
+  to share. We
+  will be
+  setting a
+  timer and
+  will remind
+  you there is
+  “one minute”
+  left. Please
+  don’t take it
+  personally.
+
+  > Once
+  speaker is
+  finished
+  after 25
+  minutes
+  -------------
 
 We are open for discussion. Please limit your comments to 3 minutes and
 share only once so that everyone may have a chance to share. We will be
@@ -92,25 +154,42 @@ clean meeting!
   DURING ANY PAUSES IN THE MEETING:
 
   Remind people they can share about anything on their mind, or just
-  introduce themselves if they’re new to our group.
-
-  Moments of silence do not reflect badly on the topic or the
-  chairperson, see it as time to process.
+  introduce themselves if they’re new to our group. Moments of silence
+  do not reflect badly on the topic or the chairperson, see it as time
+  to process.
 
   AT 10:45 pm YOU CAN ENABLE THE CHAT FEATURE AGAIN TO EVERYONE PUBLICLY
   AND PRIVATELY.
 
-The Chat is now open. Please keep it clean, respectful, and safe. When
-someone reaches out, know that you DO NOT have to give your number if
-you feel uncomfortable. Our PRIMARY purpose is to stay sober and help
-other alcoholics achieve sobriety. If you feel that someone is being
-inappropriate, please reach out to the Host or a Co-Host.
+THE CHAT IS NOW OPEN
+
+Please keep it clean, respectful, and safe. When someone reaches out
+know that you DO NOT have to give your number if you feel uncomfortable.
+Our PRIMARY purpose is to stay sober and help other alcoholics achieve
+sobriety. If you feel that someone is being inappropriate please reach
+out to the Host or a Co-Host.
 
   AT 10:55/11 pm prepare to close the meeting
 
 We are out of time. Please join us for fellowship after the meeting and
 come back tomorrow. Just a reminder that we meet 7 nights a week at 10
 pm Eastern, at the same time, same meeting access code.
+
+[Read this section for speaker meetings (friday night) ONLY]
+
+------------------------------------------------------------------------
+
+I would like to thank __________ for sharing their experience, strength,
+and hope with us tonight.
+
+------------------------------------------------------------------------
+
+Here at Love and Tolerance, we believe sponsorship is important for our
+recovery. A sponsor is someone to help you through the 12 Steps of
+Alcoholics Anonymous. IF YOU ARE ACTIVELY WORKING THE 12 STEPS AND are
+available to sponsor, please put your contact info in the chat now. If
+you need a sponsor or have any questions, please reach out to one of
+these people.
 
 If you are interested in becoming a homegroup member, would like to Host
 or Co-Host for the next rotation or need a Big Book or other AA approved
@@ -119,13 +198,6 @@ literature please send an email to info@loveandtol.com.
 If you would like to be included in the Love & Tolerance contact list or
 would like to receive a contact list, please send an email to
 info@loveandtol.com.
-
-Here at Love and Tolerance, we believe sponsorship is important for our
-recovery. A sponsor is someone to help you through the 12 Steps of
-Alcoholics Anonymous. IF YOU ARE ACTIVELY WORKING THE 12 STEPS AND are
-available to sponsor, please put your contact info in the chat now. If
-you need a sponsor or have any questions, please reach out to one of
-these people.
 
 If you need proof of meeting attendance, please email
 info@loveandtol.com.
