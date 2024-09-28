@@ -1,14 +1,47 @@
 Meeting Script - Host
-2024-06-29T17:39:50-04:00
+2024-09-28T17:39:50-04:00
 
-  This is the General script for the Host. It contains all HOST-related
-  material for a meeting. The Co-Host script is intended to be used by
-  the Co-Host for all Copy and Pasting material into the chat, during a
-  meeting. If the Co-Host is doing that, this is all you will need to
-  facilitate the meeting. If there is no Co-Host, the Co-Host script
-  will be necessary as well. It is suggested that there be a Host and a
-  Co-Host and regular communication, and expectations are discussed
-  between them.
+  This is the General script for the Host.
+
+  -   This script contains all HOST related material for a non-speaker
+      meeting.
+  -   It is very important that the Host and a Co-Host be in regular
+      communication, and that expectations are discussed between them
+      (e.g., Coordination of topic, who is timing, etc.)
+
+  From the AA Zoom Security Guide (Hardware suggestions)
+
+  -   ADMINS, HOSTS AND CO-HOSTS SHOULD NOT BE ON A MOBILE DEVICE WHEN
+      RUNNING A MEETING. USE A FULL PC OR FAIRLY DECENT LAPTOP.
+  -   Zoom doesn’t have the same features, easily accessible on mobile
+      devices.
+  -   It is highly recommended:
+      -   At minimum, use a laptop or a desktop computer, running
+          Windows, MacOS or Linux.
+      -   Use an external mouse. This enhances the ability to react
+          quickly to disruptors.
+      -   Use of a secondary/external monitor is preferred but not
+          required.
+
+  Responsibilities of the Host
+
+  -   IT IS RECOMMENDED THAT THE HOST NOT ADMIT ANY ATTENDEES FROM THE
+      WAITING ROOM. By leaving this task to the co-host(s) the host will
+      be able focus on their responsibilities. This also allows the
+      co-host(s) to be aware of everyone that has been admitted.
+  -   Facilitate the meeting and keep the meeting moving smoothly as you
+      follow the script for the duration of the meeting.
+  -   Ensure there is a topic for the meeting and share with co-host
+      prior, giving the co-host an opportunity to capture for future
+      posting in chat.
+  -   Facilitate the Discussion part of the meeting, including:
+      -   Asking to unmute
+      -   Timing the participant (if agreement made with co-host)
+      -   Muting the participant
+      -   Lowering the participants hand when sharing is complete.
+  -   At 9:55 PM ET – Ensure you have readers for the meeting.
+      -   “How it works”
+      -   “Step 10 and part of its Promises”
 
   REMINDERs:
 
@@ -30,6 +63,9 @@ Please help me open the meeting with the Serenity Prayer.
 
 God, grant me the serenity to accept the things I cannot change; courage
 to change the things I can; and wisdom to know the difference.
+
+  [DO NOT READ ALOUD] Host should use the “Mute All” feature at this
+  point. It will mute everyone in the room except for the Host
 
 We will be placing everyone on mute for the duration of the meeting. If
 you want to share please use the raise your hand feature and I will
@@ -64,43 +100,16 @@ Are there any anniversaries?
 There are no dues or fees, but we do have expenses. In keeping with the
 7th tradition, “Every A.A. group ought to be fully self-supporting,
 declining outside contributions”, methods to contribute will be posted
-in the chat. The Account Name and associated QR codes are provided.
-
+in the chat. The Account Names and associated QR codes are provided.
 Please contact a host or co-host after the meeting if you have questions
 on how to donate.
 
-Venmo: @loveandtolerance
+Tonight, is a discussion meeting, on a topic from AA approved
+literature. I have asked ­­­____[a friend]___ to choose a reading.
 
-[venmo qr code]
-
-Cash App: $loveandtol
-
-[Cash app qr code]
-
-Zelle: treasurer@loveandtol.com
-
-https://loveandtol.com/contribute
-
-  [ Read this section for discussion meetings]
-
-  Tonight, is a discussion meeting, on a topic from AA approved
-  literature.
-
-  I have asked _________ to choose a reading.
-
-  [Chair introduces another attendee who was invited to choose a reading
-  from AA approved literature and then the reader shares their
-  experience, strength, and hope]
-
-  [Read this section for speaker meetings (friday night) ONLY]
-
-  Tonight’s meeting is a speaker discussion. Our speaker will share
-  their experience, strength, and hope for about 25 minutes and then the
-  floor will be open for sharing. After, we will open for sharing.
-  Please limit your comments to 3 mins and share only once so that
-  everyone may have a chance to share. We will be setting a timer and
-  will remind you there is “one minute” left. Please don’t take it
-  personally.
+  [DO NOT READ ALOUD] – Host Introduces attendee bringing the topic to
+  read their topic and then share. If no one is enlisted to bring the
+  topic, the Host introduces the topic themselves and shares
 
 We are open for discussion. Please limit your comments to 3 minutes and
 share only once so that everyone may have a chance to share. We will be
@@ -112,15 +121,14 @@ Directions to raise a virtual hand are posted in the chat, you can also
 message me or a co-host, or wave on video. Please let’s have a safe and
 clean meeting!
 
-  DURING ANY PAUSES IN THE MEETING:
+  [DO NOT READ ALOUD] – During any pauses in the meeting: - Remind
+  everyone that they can share anything on their mind, recovery
+  related. - Introduce themselves, especially if new to the group. -
+  Moments of silence do NOT reflect badly on the topic or Host. Silence
+  is ok and used as time for people to process and reflect
 
-  Remind people they can share about anything on their mind, or just
-  introduce themselves if they’re new to our group. Moments of silence
-  do not reflect badly on the topic or the chairperson, see it as time
-  to process.
-
-  AT 10:45 pm YOU CAN ENABLE THE CHAT FEATURE AGAIN TO EVERYONE PUBLICLY
-  AND PRIVATELY.
+  [DO NOT READ ALOUD] - At approximately 10:45 PM, the chat can be
+  opened.
 
 THE CHAT IS NOW OPEN
 
@@ -130,16 +138,24 @@ Our PRIMARY purpose is to stay sober and help other alcoholics achieve
 sobriety. If you feel that someone is being inappropriate please reach
 out to the Host or a Co-Host.
 
-  AT 10:55/11 pm prepare to close the meeting
+  [DO NOT READ ALOUD] – At approximately 10:55 PM prepare to close the
+  meeting
 
 We are out of time. Please join us for fellowship after the meeting and
 come back tomorrow. Just a reminder that we meet 7 nights a week at 10
-pm Eastern, at the same time, same meeting access code.
+pm Eastern, at the same time, same meeting code. If you are in a place
+where you can’t have a phone, please make note of our meeting code. The
+Love and Tolerance Meeting Code is 190 210 132.
 
-  [Read this section for speaker meetings (friday night) ONLY]
+If you are: - Interested in becoming a homegroup member. - Would like to
+volunteer to host or co-host for the next rotation. - Need a Big Book or
+other AA approved literature or - Would like to be included in the Love
+& Tolerance contact list or would like to receive a contact list.
 
-  I would like to thank __________ for sharing their experience,
-  strength, and hope with us tonight.
+Please send an email to info@loveandtol.com.
+
+If you need proof of meeting attendance, please email
+info@loveandtol.com.
 
 Here at Love and Tolerance, we believe sponsorship is important for our
 recovery. A sponsor is someone to help you through the 12 Steps of
@@ -148,36 +164,23 @@ available to sponsor, please put your contact info in the chat now. If
 you need a sponsor or have any questions, please reach out to one of
 these people.
 
-If you are interested in becoming a homegroup member, would like to Host
-or Co-Host for the next rotation or need a Big Book or other AA approved
-literature please send an email to info@loveandtol.com.
+You can find all this information and more at our website,
+loveandtol.com
 
-If you would like to be included in the Love & Tolerance contact list or
-would like to receive a contact list, please send an email to
-info@loveandtol.com.
-
-If you need proof of meeting attendance, please email
-info@loveandtol.com.
-
-Find all this information and more at our website, loveandtol.com
-
-If you are in a place where you can’t have a phone, please make note of
-our meeting code so you can sign on when you get home, and we can help
-each other stay sober.
-
-  Love and Tolerance Meeting Code 190-210-132
-
-DECLARATION PLEDGE:
+DECLARATION PLEDGE
 
 When anyone, anywhere, reaches out for help, I want the hand of AA
 always to be there. And for that: I am responsible.
 
-Just a reminder, Anonymity is the spiritual foundation of our program.
+Just a reminder, anonymity is the spiritual foundation of our program.
 If we are to recover, we must feel free to say what is in our minds and
 hearts. Therefore, who you see here, what you hear here, when you leave
 here, let it stay here.
 
 Please stay after the meeting for more fellowship.
+
+  [DO NOT READ ALOUD] – Prior to reading of the Serenity Prayer, please
+  “Ask All to Unmute”
 
 Please help me close the meeting with the “We” version of the serenity
 prayer.
