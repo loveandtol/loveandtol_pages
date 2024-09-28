@@ -1,4 +1,197 @@
-Meeting Script - Host
-2024-09-28T17:39:50-04:00
+  This is the General script for the Host.
 
-Hello world
+  -   This script contains all HOST related material for a non-speaker
+      meeting.
+  -   It is very important that the Host and a Co-Host be in regular
+      communication, and that expectations are discussed between them
+      (e.g., Coordination of topic, who is timing, etc.)
+
+  From the AA Zoom Security Guide (Hardware suggestions)
+
+  -   ADMINS, HOSTS AND CO-HOSTS SHOULD NOT BE ON A MOBILE DEVICE WHEN
+      RUNNING A MEETING. USE A FULL PC OR FAIRLY DECENT LAPTOP.
+  -   Zoom doesn’t have the same features, easily accessible on mobile
+      devices.
+  -   It is highly recommended:
+      -   At minimum, use a laptop or a desktop computer, running
+          Windows, MacOS or Linux.
+      -   Use an external mouse. This enhances the ability to react
+          quickly to disruptors.
+      -   Use of a secondary/external monitor is preferred but not
+          required.
+
+  Responsibilities of the Host
+
+  -   IT IS RECOMMENDED THAT THE HOST NOT ADMIT ANY ATTENDEES FROM THE
+      WAITING ROOM. By leaving this task to the co-host(s) the host will
+      be able focus on their responsibilities. This also allows the
+      co-host(s) to be aware of everyone that has been admitted.
+  -   Facilitate the meeting and keep the meeting moving smoothly as you
+      follow the script for the duration of the meeting.
+  -   Ensure there is a topic for the meeting and share with co-host
+      prior, giving the co-host an opportunity to capture for future
+      posting in chat.
+  -   Facilitate the Discussion part of the meeting, including:
+      -   Asking to unmute
+      -   Timing the participant (if agreement made with co-host)
+      -   Muting the participant
+      -   Lowering the participants hand when sharing is complete.
+  -   At 9:55 PM ET – Ensure you have readers for the meeting.
+      -   “How it works”
+      -   “Step 10 and part of its Promises”
+
+  REMINDERs:
+
+  AT 10PM ENSURE THE FOLLOWING CONFIGURATIONS
+
+  -   Mute All participants.
+  -   “Mute Participants upon Entry” is checked.
+  -   “Allow Participants to Unmute Themselves” is unchecked.
+  -   “Host and co-hosts” should be selected in “Participant Can Chat
+      with:”
+
+MEETING SCRIPT
+
+Welcome to the very open Love and Tolerance meeting of Alcoholics
+Anonymous. My name is _____ and I am an Alcoholic. I’ll be your
+chairperson this evening.
+
+Please help me open the meeting with the Serenity Prayer.
+
+God, grant me the serenity to accept the things I cannot change; courage
+to change the things I can; and wisdom to know the difference.
+
+  [DO NOT READ ALOUD] Host should use the “Mute All” feature at this
+  point. It will mute everyone in the room except for the Host
+
+We will be placing everyone on mute for the duration of the meeting. If
+you want to share please use the raise your hand feature and I will
+unmute you. The instructions on how to share will be posted in the chat.
+Those needing proof of attendance, the information will be shared toward
+the end of the meeting.
+
+AA PREAMBLE
+
+Alcoholics Anonymous is a fellowship of people who share their
+experience, strength and hope with each other that they may solve their
+common problem and help others to recover from alcoholism. The only
+requirement for membership is a desire to stop drinking. There are no
+dues or fees for AA membership; we are self-supporting through our own
+contributions. AA is not allied with any sect, denomination, politics,
+organization, or institution; does not wish to engage in any
+controversy, neither endorses nor opposes any causes. Our primary
+purpose is to stay sober and help other alcoholics to achieve sobriety.
+
+I have asked ______ [a friend] to read “How it Works” from page 58 of
+the Big Book.
+
+I have asked ________ [another friend] to read Step 10 and part of its
+promises, from page 84 of the Big Book.
+
+Are there any AA-related announcements?
+
+Is there anyone here counting days, weeks, or months?
+
+Are there any anniversaries?
+
+There are no dues or fees, but we do have expenses. In keeping with the
+7th tradition, “Every A.A. group ought to be fully self-supporting,
+declining outside contributions”, methods to contribute will be posted
+in the chat. The Account Names and associated QR codes are provided.
+Please contact a host or co-host after the meeting if you have questions
+on how to donate.
+
+Tonight, is a discussion meeting, on a topic from AA approved
+literature. I have asked ­­­____[a friend]___ to choose a reading.
+
+  [DO NOT READ ALOUD] – Host Introduces attendee bringing the topic to
+  read their topic and then share. If no one is enlisted to bring the
+  topic, the Host introduces the topic themselves and shares
+
+We are open for discussion. Please limit your comments to 3 minutes and
+share only once so that everyone may have a chance to share. We will be
+setting a timer and will remind you when there is “one minute” left,
+after that I’ll ask you to wrap it up. Please don’t take this
+personally.
+
+Directions to raise a virtual hand are posted in the chat, you can also
+message me or a co-host, or wave on video. Please let’s have a safe and
+clean meeting!
+
+  [DO NOT READ ALOUD] – During any pauses in the meeting: - Remind
+  everyone that they can share anything on their mind, recovery
+  related. - Introduce themselves, especially if new to the group. -
+  Moments of silence do NOT reflect badly on the topic or Host. Silence
+  is ok and used as time for people to process and reflect
+
+  [DO NOT READ ALOUD] - At approximately 10:45 PM, the chat can be
+  opened.
+
+THE CHAT IS NOW OPEN
+
+Please keep it clean, respectful, and safe. When someone reaches out
+know that you DO NOT have to give your number if you feel uncomfortable.
+Our PRIMARY purpose is to stay sober and help other alcoholics achieve
+sobriety. If you feel that someone is being inappropriate please reach
+out to the Host or a Co-Host.
+
+  [DO NOT READ ALOUD] – At approximately 10:55 PM prepare to close the
+  meeting
+
+We are out of time. Please join us for fellowship after the meeting and
+come back tomorrow. Just a reminder that we meet 7 nights a week at 10
+pm Eastern, at the same time, same meeting code. If you are in a place
+where you can’t have a phone, please make note of our meeting code. The
+Love and Tolerance Meeting Code is 190 210 132.
+
+If you are: - Interested in becoming a homegroup member. - Would like to
+volunteer to host or co-host for the next rotation. - Need a Big Book or
+other AA approved literature or - Would like to be included in the Love
+& Tolerance contact list or would like to receive a contact list.
+
+Please send an email to info@loveandtol.com.
+
+If you need proof of meeting attendance, please email
+info@loveandtol.com.
+
+Here at Love and Tolerance, we believe sponsorship is important for our
+recovery. A sponsor is someone to help you through the 12 Steps of
+Alcoholics Anonymous. IF YOU ARE ACTIVELY WORKING THE 12 STEPS AND are
+available to sponsor, please put your contact info in the chat now. If
+you need a sponsor or have any questions, please reach out to one of
+these people.
+
+You can find all this information and more at our website,
+loveandtol.com
+
+DECLARATION PLEDGE
+
+When anyone, anywhere, reaches out for help, I want the hand of AA
+always to be there. And for that: I am responsible.
+
+Just a reminder, anonymity is the spiritual foundation of our program.
+If we are to recover, we must feel free to say what is in our minds and
+hearts. Therefore, who you see here, what you hear here, when you leave
+here, let it stay here.
+
+Please stay after the meeting for more fellowship.
+
+  [DO NOT READ ALOUD] – Prior to reading of the Serenity Prayer, please
+  “Ask All to Unmute”
+
+Please help me close the meeting with the “We” version of the serenity
+prayer.
+
+God grant us the serenity to accept the things we cannot change; courage
+to change the things we can; and wisdom to know the difference.
+
+AA Approved Literature
+
+https://loveandtol.com/meeting/literature
+
+Other formats
+
+-   PDF
+-   Word doc
+-   Plain text
+-   Kindle
