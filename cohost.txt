@@ -1,42 +1,86 @@
-+++ title = ‘Meeting Script - Cohost’ date = 2024-06-29T17:39:56-04:00
++++ title = ‘Meeting Script - Cohost’ date = 2024-10-31T17:39:56-04:00
 draft = false weight = 20 +++
 
-  This is the Co-Host script, used by the Co-Host for all Copy and
-  Pasting material into the chat, during a meeting. Doing this, the Host
-  will be able to focus on facilitating the meeting. We suggest that
-  regular communication and expectations be discussed between the Host
-  and Co-Host.
+*** CO-HOST SCRIPT PREREQUISTES ***
 
-  REMINDERs:
+This is the General script for the Co-Host.
 
-  AT 10PM ENSURE THE FOLLOWING CONFIGURATIONS * Mute All participants. *
-  “Mute Participants upon Entry” is checked. * “Allow Participants to
-  Unmute Themselves” is unchecked. * “Host and co-hosts” should be
-  selected in “Participant Can Chat with:”
+-   This script contains all CO- HOST related material a meeting.
+-   It is very important that the Host and a Co-Host be in regular
+    communication, and that expectations are discussed between them
+    (e.g., Coordination of topic, who is timing)
 
-Keep an eye on the waiting room and admit people. Let the host mute and
-unmute people unless a zoom disruptor goes off. Then mute the disruptor
-quickly & turn their camera off. After that just leave them and look for
-the next one.
+From the AA Zoom Security Guide (Hardware suggestions)
 
-Post in chat at these times.
+-   ADMINS, HOSTS AND CO-HOSTS SHOULD NOT BE ON A MOBILE DEVICE WHEN
+    RUNNING A MEETING. USE A FULL PC OR FAIRLY DECENT LAPTOP.
+-   Zoom doesn’t have the same features, easily accessible on mobile
+    devices.
+-   It is highly recommended:
+    -   At minimum, use a laptop or a desktop computer, running Windows,
+        MacOS or Linux.
+    -   Use an external mouse. This enhances the ability to react
+        quickly to disruptors.
+    -   Use of a secondary/external monitor is preferred but not
+        required.
 
-10:00 & 10:15
+Responsibilities of the Co-Host
+
+-   IT IS RECOMMENDED THAT THE CO-HOST BE THE ONLY ONE THAT ADMIT ANY ATTENDEES FROM THE WAITING ROOM. By performing this task, the co-host(s) will be aware of everyone that has been admitted.
+
+-   The co-host performs all activities and configuration changes to
+    ensure the meeting is as safe as possible.
+
+-   Transfer “Host” duties to the Host once they join. If they are
+    already present, request that they make you a “Co-Host.”
+
+-   It is best to enlist the assistance of another qualified attendee
+    and ask the Host to make them a co-host.
+
+-   Coordinate with the host who will be doing the timing. Use a
+    3-minute timer, giving the sharer a 1-minute warning. After that
+    minute kindly tell them to wrap it up.
+
+-   YOU MUST remain focused on the meeting for the entire meeting, fully
+    engaged and monitoring for potential issues.
+
+-   Prior to the meeting, ensure the following pre-meeting settings are
+    configure:
+
+CHAT SETTINGS
+
+-   In the “Meeting Chat,” select the 3 dots [] and then select “Hosts
+    and co-hosts” as shown below
+
+    []
+
+PARTICIPANT SETTINGS (IMMEDIATELY AFTER THE SERENITY PRAYER)
+
+-   In the “Participants,” select the 3 dots
+    -   Select (check) “Mute participants upon entry”
+
+    -   Unselect (uncheck) “Allow participants to unmute themselves”
+
+        []
+
+*** CO-HOST SCRIPT STARTS HERE ***
+
+Post the following in the chat on, or about the times mentioned.
+
+[ 10:00 & 10:15 ]
 
 Having trouble hearing? Call In Phone #: 1-312-626-6799 Meeting ID:190
 210 132
 
-10:01
+[ 10:01 – Post the following throughout the meeting at your discretion ]
 
 DIRECTIONS ON HOW TO SHARE:
 
 On a Tablet: SELECT THE RAISE HAND ICON
-
 On a cell phone: SELECT “MORE” ICON & SELECT “RAISE HAND”
-
 On a computer: “RAISE HAND” IN ZOOM IS LOCATED IN THE REACTIONS TOOLBAR.
 
-AFTER ANNIVERSARIES ARE ASKED ABOUT.
+[ AFTER ANNIVERSARIES ARE ASKED ABOUT ]
 
 7th Tradition
 
@@ -48,50 +92,60 @@ in the chat. The Account Name and associated QR codes are provided.
 Please contact a host or co-host after the meeting if you have questions
 on how to donate.
 
-Venmo: @loveandtolerance
+Venmo: @loveandtolerance
 
-[venmo qr code]
+Cash App: $loveandtol
 
-Cash App: $loveandtol
+Zelle: treasurer@loveandtol.com
 
-[Cash app qr code]
+[] []
 
-Zelle: treasurer@loveandtol.com
+[ WHEN THE PERSON IS ASKED TO DO THE READING ]
 
-https://loveandtol.com/contribute
+Post whatever the reading is for the night. Post again in frequently, as
+necessary, especially if you see people joining the meeting late as they
+typically cannot see the prior chat. Every 10 -15 minutes or so or when
+someone asks about the topic in chat.
 
-WHEN THE PERSON IS ASKED TO DO THE READING.
+REMINDER: Whomever is timing will set a 3-minute timer, giving the
+sharer a 1-minute warning. After that minute kindly tell them to wrap it
+up.
 
-Post whatever the reading is for the night. Post again in 15 minutes or
-so or when someone asks about the topic in chat.
-
-Decide whether you or the host is going to time people sharing. Whomever
-is timing, use a 3-minute timer, giving them a 1-minute warning. After
-that minute kindly tell them their time is up.
-
-10:45. Keep an eye on the waiting room to make sure you let people in that arrive late.
+[ 10:45 - Monitor the waiting room admitting people that arrive late ]
 
 DIRECTIONS ON HOW TO SHARE:
 
 On a Tablet: SELECT THE RAISE HAND ICON
-
 On a cell phone: SELECT “MORE” ICON & SELECT “RAISE HAND”
-
 On a computer: “RAISE HAND” IN ZOOM IS LOCATED IN THE REACTIONS TOOLBAR.
 
-10:45 - Open chat to anyone and everyone.
+[ At approximately 10:45 PM, the chat can be opened ]
 
 THE CHAT IS NOW OPEN
 
 Please keep it clean, respectful, and safe. When someone reaches out
-know that you DO NOT have to give your number if you feel uncomfortable.
-Our PRIMARY purpose is to stay sober and help other alcoholics achieve
-sobriety. If you feel that someone is being inappropriate please reach
-out to the Host or a Co-Host.
+know that you DO NOT have to respond or give your number if you feel
+uncomfortable. Our PRIMARY purpose is to stay sober and help other
+alcoholics achieve sobriety. If you feel that someone is being
+inappropriate please make the Host or a Co-Host aware immediately.
 
-10:56 – Post the following
+[ Approximately 10:55 or following the host’s lead ]
 
-SPONSORSHIP INFO:
+If you are:
+
+-   Interested in becoming a homegroup member.
+-   Would like to volunteer to host or co-host for the next rotation.
+-   Need a Big Book or other AA approved literature or
+-   would like to be included in the Love & Tolerance contact list or
+    would like to receive a contact list.
+
+Please send an email to info@loveandtol.com.
+The Love and Tolerance Meeting Code is 190 210 132.
+
+If you need proof of meeting attendance, please email
+info@loveandtol.com.
+
+SPONSORSHIP
 
 Here at Love and Tolerance, we believe sponsorship is important for our
 recovery. A sponsor is someone to help you through the 12 Steps of
@@ -100,31 +154,18 @@ available to sponsor, please put your contact info in the chat now. If
 you need a sponsor or have any questions, please reach out to one of
 these people.
 
-HOMEGROUP INFO:
+You can find all this information and more at our website,
+http://loveandtol.com
 
-If you are interested in becoming a homegroup member, would like to Host
-or Co-Host for the next rotation or need a Big Book or other AA approved
-literature please send an email to info@loveandtol.com
+[ AFTER THE SERENITY PRAYER, UPDATE PARTICIPANT SETTINGS AS SHOWN BELOW
+]
 
-CONTACT LIST:
+-   In the “Participants,” select the 3 dots
+    -   Select (check) “Mute participants upon entry”
 
-If you would like to be included in the Love & Tolerance contact list or
-would like to receive a contact list, please send an email to
-info@loveandtol.com
+    -   Select (check) “Allow participants to unmute themselves”
 
-PROOF OF ATTENDANCE:
-
-If you need proof of meeting attendance, please email
-info@loveandtol.com
-
-WEBSITE INFORMATION:
-
-Find all this information and more at our website,
-https://loveandtol.com
-
-MEETING INFORMATION:
-
-Love and Tolerance Meeting ID: 190 210 132 no password needed.
+        []
 
 AA Approved Literature
 
